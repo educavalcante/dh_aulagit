@@ -1,0 +1,26 @@
+repsitorio local dos arquivos de projeto
+nx qts quiser
+uma copia no computador
+e remoto
+
+git bash (localizar o diretorio)
+git init  //criar o repositorio
+git config user.name "educavalcante" //criar o repositorio
+git config user.email "eduardo@cpcbrasil.com" //criar o repositorio
+git remote add origin https://github.com/educavalcante/dh_aulagit.git   //apontar o repositorio
+git config --global user.name "educavalcante"
+============================================
+git add . //adciiona todas modificações
+git commit -m "mensagem" // comita as modificações
+git push origin master // envia as modificações ao repositorio
+
+
+Lista dos principais comandos Git:
+
+git init Para inciar o controle de versão na pasta.
+git status Para listar o status/estágio de todos os arquivos do projeto. Por exemplo: criado, modificado, excluído...
+git add NOME_DO_ARQUIVO.EXTENSÃO Para separar o arquivo que deseja guardar a versão.
+git commit -m "Descrição do que foi feito no seu projeto"  Para definir uma descrição para versão e salvá-la no histórico.
+git log  Para listar todos o histórico de commits .
+git push  Para enviar todo histórico de commits  para o repositório no servidor.
+git pull  Para verificar se existem atualizações no repositório e realizar o download para seu projeto local.
