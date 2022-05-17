@@ -14,6 +14,12 @@ git add . //adciiona todas modificações
 git commit -m "mensagem" // comita as modificações
 git push origin master // envia as modificações ao repositorio
 
+git clone (endereço pegar do git .)
+---depois que cloca tem que entra na pasta
+
+atividade:
+ - para quarta
+
 
 Lista dos principais comandos Git:
 
